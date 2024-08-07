@@ -91,14 +91,14 @@ The number of data points for each class in the test set is the same, the prior 
   | 5   | 42   |
 
 ### NBC Results:
-- NBC Average Accuracy: 0.85
+- NBC Average Accuracy: 0.8048
 - |ACC 1 |ACC 2 |ACC 3 |ACC 4 |ACC 5 |AVG ACC|
   |------|------|------|------|------|-------|
   |0.8333|0.8095|0.8571|0.8095|0.7143|0.8048 |
 
 
 ### SNB Selection:
-- SNB Best Accuracy: 0.9625
+- SNB Best Accuracy: 0.8571
 - | Step | Selected Attribute    | Accuracy| Step | Selected Attribute       | Accuracy|
   |------|-----------------------|---------|------|--------------------------|---------| 
   | 1    | exgreen-mean          | 0.5190  |10    | short-line-density-5     | 0.8476  |
